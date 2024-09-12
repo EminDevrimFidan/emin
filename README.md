@@ -1,4 +1,4 @@
-# Photo Gallery with Sticky Heading
+# Emin Devrim Fidan - Personal Page
 
 The MIT License (MIT)
 
